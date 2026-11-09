@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there, I am Manish Nadendla
+Software Development Intern at AR Solutions 
+Software Engineering Intern- previously at Swing Phi 
+B.S in Computer Science at the University of Texas at Dallas 
 <!--
 **manishnadendla10/manishnadendla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
