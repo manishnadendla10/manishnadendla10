@@ -1,10 +1,6 @@
 ## Hi there, I'm Manish Nadendla 👋
 
-**Software Development Intern** at AR Solutions Inc.
-**Co-founder, [Bouvane](https://manishnadendla.com)**, building AIWAF
-**Software Engineering Intern**, previously at Swing Phi
-**Junior Penetration Tester**, previously at Hacktify Cyber Security
-**B.S. in Computer Science**, University of Texas at Dallas
+Software Development Intern at AR Solutions Inc.<br> Co-founder, Bouvane, building AIWAF<br> Software Engineering Intern, previously at Swing Phi<br> Junior Penetration Tester, previously at Hacktify Cyber Security<br> B.S. in Computer Science, University of Texas at Dallas
 
 I'm a software engineer who builds full-stack applications and developer tooling, with a background in application security. I like building products end to end, from React frontends and Node.js backends to the automation and pipelines behind them, and I bring a security mindset to how I design and ship them. I'm particularly interested in scalable web systems, cloud platforms, and AI-powered applications that are built to be both useful and secure.
 
